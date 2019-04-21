@@ -1,4 +1,4 @@
-def my_hash = {"name" => "Jim", "place" => "Rome"}
+my_hash = {"name" => "Jim", "place" => "Rome"}
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
