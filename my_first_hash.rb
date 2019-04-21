@@ -1,5 +1,4 @@
-def my_hash = {"name" => "Jim", 
-  
+def my_hash = {"name" => "Jim", "place" => "Rome"}
 end
 
 
